@@ -10,7 +10,7 @@ body {
 	background-color: #ffffff;
 	height: 450px;
 	width: 304px;
-	padding: 25px;
+	padding: 10px;
 	margin-left: auto;
 	margin-right: auto;
 	border-radius: 30px;
@@ -29,6 +29,10 @@ body {
 img {
 	margin-left: auto;
 	margin-right: auto;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
 }
 #text2 {
 	margin-left: auto;
