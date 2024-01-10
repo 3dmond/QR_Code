@@ -34,8 +34,17 @@ img {
 	border-bottom-right-radius: 15px;
 	border-bottom-left-radius: 15px;
 }
+#text1 {
+	width: 270px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	font-weight: 700;
+}
 #text2 {
 	margin-left: auto;
 	margin-right: auto;
 	width: 250px;
+	font-family: arial;
+	font-weight: 100;
 }
