@@ -1,3 +1,3 @@
 QR Code page using HTML and CSS
 
-![web preview](Images/Web_Preview.png)
+![web preview](images/Web_Preview.png)
